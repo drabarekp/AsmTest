@@ -131,7 +131,9 @@
     <ClCompile Include="AsmTest.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <MASM Include="cmp.asm" />
     <MASM Include="helloWorld.asm" />
+    <MASM Include="gcd.asm" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
