@@ -23,5 +23,11 @@
     <MASM Include="helloWorld.asm">
       <Filter>Source Files</Filter>
     </MASM>
+    <MASM Include="gcd.asm">
+      <Filter>Source Files</Filter>
+    </MASM>
+    <MASM Include="cmp.asm">
+      <Filter>Source Files</Filter>
+    </MASM>
   </ItemGroup>
 </Project>
